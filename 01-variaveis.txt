@@ -1,0 +1,17 @@
+Exercício 1a
+
+Altere a página que não funciona para funcionar.
+
+Exercício 1b
+
+A função define() define constantes globais.
+
+// Podemos usar tanto NOME quanto NoMe por conta do true
+define( 'NOME', 'Fulano de Tal', true );
+echo noMe;
+
+// Não podemos usar nome
+define( 'NOME', 'Fulano de Tal', true );
+echo NOME;
+
+Defina constantes para os nomes das cores nas páginas vermelho.php e verde.php.
